@@ -10,7 +10,7 @@ CountOfGroups=3;
 LenghntOfherd=100;%  maximum herd size, including youngstock <= 65,535
 CountOfSimulationDays=365;
 GroupingPeriodLenghnt=30;
-%%
+%%%
 dayInformation=[];
 for c=1:LenghntOfherd
     herd(c)=herd(c).NewDay();
